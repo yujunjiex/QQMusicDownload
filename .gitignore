@@ -1,0 +1,13 @@
+#Pycharm
+.idea
+__pycache__
+build
+dist
+Download/__pycache__
+GUI/__pycache__
+MusicAPI/__pycache__
+SongsInfomation/__pycache__
+
+
+# python objects and libs
+*.pyc
